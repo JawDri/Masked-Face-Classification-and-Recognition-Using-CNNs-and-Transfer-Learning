@@ -1,4 +1,5 @@
 # Masked-Face-Classification-and-Recognition-Using-CNNs-and-Transfer-Learning
+
 This repository contains my full documentations of the project Masked-Face Classification and Recognition Using  CNNs and Transfer Learning
 Nowadays, the mask has become the essential accessory to fight against the spread of the virus. Researchers
 started developing a lot of Artificial Intelligence algorithms to
